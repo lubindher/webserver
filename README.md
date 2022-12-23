@@ -4,7 +4,7 @@
 
 To develop a simple webserver to serve html programming pages.
 
-## DESIGN STEPS:
+### DESIGN STEPS:
 
 ### Step 1:
 
