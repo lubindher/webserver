@@ -51,6 +51,11 @@ print("Web server running...")
 httpd.serve_forever()    
 ```
 ## OUTPUT:
+ #server side:
+ ![output](./Screenshot%20(14).png)
+
+ #client side:
+  ![output](./Screenshot_20230106_085912.png)
 
 ## RESULT:
 The program is executed succesfully
